@@ -61,7 +61,13 @@
 ### 😴 Drowsiness Detection System (ML/CV)  
 - Implemented **eye-aspect ratio model** with ML classifiers.  
 - Tuned thresholds to reduce false triggers.  
-**Tech:** Python, OpenCV, NumPy, scikit-learn  
+**Tech:** Python, OpenCV, NumPy, scikit-learn
+
+
+### 🌄 Trippy Tales – Travel Guide & Booking Platform
+ - Built a marketing & booking website for guided tours in Jim Corbett, Nainital, and Uttarakhand.
+ - Implemented responsive UI, dynamic tour listings, and booking forms. Integrated authentication and database management for secure bookings.
+ - Tech: Next.js, Node.js, Express.js, MongoDB (with Prisma), Redux/Zustand, Clerk, Vercel
 
 ### 📌 Online Notice Board System  
 - Built **auto-tagging & categorization system** for notices using NLP.  
