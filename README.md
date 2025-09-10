@@ -67,7 +67,7 @@
 ### 🌄 Trippy Tales – Travel Guide & Booking Platform
  - Built a marketing & booking website for guided tours in Jim Corbett, Nainital, and Uttarakhand.
  - Implemented responsive UI, dynamic tour listings, and booking forms. Integrated authentication and database management for secure bookings.
- - Tech: Next.js, Node.js, Express.js, MongoDB (with Prisma), Redux/Zustand, Clerk, Vercel
+ - Tech: Node.js, Vercel, Yarn, Vite, HTML, Tailwind CSS
 
 ### 📌 Online Notice Board System  
 - Built **auto-tagging & categorization system** for notices using NLP.  
