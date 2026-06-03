@@ -80,6 +80,12 @@
 - Generated actionable business insights through data analytics and reporting.
 **Tech:** Python, Pandas, NumPy, SQLite, SQLAlchemy, SQL, Jupyter Notebook, Git
 
+### ⚽ Football Match Analysis System
+- Built a football analytics system to analyze match footage, player performance, and team statistics using computer vision and machine learning techniques.
+- Applied YOLO for player and object detection, processed match data with OpenCV, and performed data analysis to extract performance metrics and gameplay insights.
+- Generated statistical reports and visualizations to evaluate player movements, team performance, and match trends.
+**Tech:** Python, OpenCV, YOLO, NumPy, Pandas, Scikit-Learn, Jupyter Notebook
+
 ---
 
 ## 📊 GitHub Stats  
