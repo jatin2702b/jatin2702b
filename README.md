@@ -72,7 +72,13 @@
 ### 📌 Online Notice Board System  
 - Built **auto-tagging & categorization system** for notices using NLP.  
 - Added keyword extraction + recommendations.  
-**Tech:** Python, NLP, SQL  
+**Tech:** Python, NLP, SQL
+
+### 📊 Mutual Fund Analytics Platform
+- Built a complete data pipeline for mutual fund analytics, including data ingestion, cleaning, validation, and database design.
+- Created a SQLite star schema and developed SQL queries to analyze fund performance, NAV trends, investor transactions, and AUM growth.
+- Generated actionable business insights through data analytics and reporting.
+**Tech:** Python, Pandas, NumPy, SQLite, SQLAlchemy, SQL, Jupyter Notebook, Git
 
 ---
 
