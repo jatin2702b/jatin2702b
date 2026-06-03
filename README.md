@@ -96,7 +96,7 @@
 ---
 
 ## 🎓 Education  
-- **B.Tech CSE (2026)** — Graphic Era Hill University, Haldwani | CGPA: 7.3  
+- **B.Tech CSE (2026)** — Graphic Era Hill University, Haldwani | CGPA: 7.51 
 - **Intermediate (CBSE)** — Universal Convent Sr. Sec. School | 79.4%  
 
 ---
